@@ -1,2 +1,0 @@
-studentlinkedlist.StudentLinkedList
-studentlinkedlist.Node
